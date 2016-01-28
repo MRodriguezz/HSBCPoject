@@ -1,0 +1,90 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "19%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s56f92ecf5fa46a5acd4262b9b5d8b19",
+    "_text_": "Log in",
+    "_top_": {
+        "type": "string",
+        "value": "81%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "se644196e5cd4897bb3addeb01c53254",
+    "focusskin": "se644196e5cd4897bb3addeb01c53254",
+    "height": {
+        "type": "string",
+        "value": "19%"
+    },
+    "id": "BtnLogin",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "ee52ad3869824307ba8604b2d219e145",
+    "left": {
+        "type": "string",
+        "value": "0%"
+    },
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_2c62fbed31e34488baf7b89838e262b2",
+    "onclick": "AS_Button_2c62fbed31e34488baf7b89838e262b2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "LoginContainer",
+    "pf": "LoginForm",
+    "render": true,
+    "skin": "s56f92ecf5fa46a5acd4262b9b5d8b19",
+    "text": "Log in",
+    "top": {
+        "type": "string",
+        "value": "81%"
+    },
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": {
+        "type": "string",
+        "value": "100%"
+    },
+    "zIndex": 1,
+    "zindex": 1
+}

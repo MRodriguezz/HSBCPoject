@@ -1,0 +1,95 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "26%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9e9958ad8d442589289c8617d7673eb",
+    "_top_": {
+        "type": "string",
+        "value": "54%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowMode": 0,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerX": "50%",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "DateContainer",
+        "CopyDateContainer0aec5f00e291b48",
+        "CopyDateContainer0d308550c398340",
+        "CopyLineContainer0689e28a2b50243",
+        "CopyLineContainer0175572407cea4c"
+    ],
+    "clipBounds": true,
+    "clipbounds": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "enableScrolling": true,
+    "enabled": false,
+    "enablescrolling": true,
+    "height": "26%",
+    "id": "StockCont",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "35beb798cbd34ef5a4ece58bf3cfb868",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": "0%",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "Stock4",
+    "percent": true,
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "s9e9958ad8d442589289c8617d7673eb",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "top": "54%",
+    "wType": "FlexContainer",
+    "widgetAlignment": 1,
+    "widgetalignment": 1,
+    "width": "100%",
+    "zIndex": 1,
+    "zindex": 1
+}

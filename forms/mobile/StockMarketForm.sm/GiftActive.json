@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2928f9e29c84b6d8b08b3f82fd205e1",
+    "_src_": "gifts_active.png",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "base64": null,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "StockMarketForm",
+        "ispercent": true,
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "height": "40%",
+    "id": "GiftActive",
+    "imageScaleMode": 1,
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isVisible": false,
+    "ispercent": true,
+    "isvisible": false,
+    "kuid": "fa08dfcd36744eab92086fc4c365c9a5",
+    "left": "35%",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Image2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "ProductsContainer",
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "s2928f9e29c84b6d8b08b3f82fd205e1",
+    "src": "gifts_active.png",
+    "srcType": 1,
+    "top": "15%",
+    "wType": "Image",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "width": "35%",
+    "zIndex": 1,
+    "zindex": 1
+}

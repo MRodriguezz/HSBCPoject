@@ -1,0 +1,117 @@
+{
+    "DNDConfig": null,
+    "_init_": "AS_Form_2aa18bbdb56b40ecb7d16dc621ac9f52",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s24687f255fa4696a06b0d2f851f5b7e",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "MasterContainer"
+    ],
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentOffsetX": 0,
+    "contentOffsetY": 0,
+    "contentSizeHeight": 0,
+    "contentSizeWidth": 0,
+    "currentLocale": null,
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyS2",
+    "displayOrientation": 1,
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledForIdleTimeout": false,
+    "enabledforidletimeout": false,
+    "id": "StockMarketForm",
+    "info": null,
+    "init": "AS_Form_2aa18bbdb56b40ecb7d16dc621ac9f52",
+    "initdone": false,
+    "inputAccessoryViewType": 4,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.scrollflexform.IPhoneScrollFlexFormProperty",
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": true
+            }
+        },
+        "titleBar": true
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "d99c802369b6481c96ec79a22cf83f1d",
+    "layoutType": 2,
+    "layouttype": 2,
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Form2",
+    "needAppMenu": true,
+    "needappmenu": true,
+    "orientation": 1,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "android",
+    "prevDevice": "GalaxyS4",
+    "prevPlatform": "iphone",
+    "render": true,
+    "retainScrollPosition": false,
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS2",
+    "skin": "s24687f255fa4696a06b0d2f851f5b7e",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "title": null,
+    "titleBar": true,
+    "titleBarSkin": "s616c4a8f76f4798b804279f4505b6db",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "widgetAlignment": 5
+}

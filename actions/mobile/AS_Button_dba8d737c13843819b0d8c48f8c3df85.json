@@ -1,0 +1,20 @@
+{
+	"AS_Button_dba8d737c13843819b0d8c48f8c3df85": {
+		"id": "AS_Button_dba8d737c13843819b0d8c48f8c3df85",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_b7aa85c96ee8425981a6bc1e5496bab6",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "show_watchlist();",
+				"callbackType": null
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"AS_Button_2c62fbed31e34488baf7b89838e262b2": {
+		"id": "AS_Button_2c62fbed31e34488baf7b89838e262b2",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___011c8a1149394338a70cfac3c0d5b344",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "Login",
+				"display": "Login",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

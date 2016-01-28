@@ -1,0 +1,169 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "93%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "54%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "android": {
+        "viewType": "pageview"
+    },
+    "autogrowMode": 0,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerX": "50%",
+    "centerY": "53%",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "53%"
+    },
+    "containerWeight": 100,
+    "containerweight": 100,
+    "counter": "02",
+    "data": [
+        {},
+        {},
+        {}
+    ],
+    "enabled": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": null,
+    "groupCells": false,
+    "groupcells": false,
+    "hasSections": false,
+    "height": "93%",
+    "id": "segData",
+    "indicator": "none",
+    "info": null,
+    "invokedProperty": "pageOffDotImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "47240bceeb7c4183aab09c0e706f1669",
+    "left": "0%",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needPageIndicator": true,
+    "needpageindicator": true,
+    "onSwipe": "AS_Segment_c42a032c9472468bafd0d39208b44bf1",
+    "onswipe": "AS_Segment_c42a032c9472468bafd0d39208b44bf1",
+    "orientation": 2,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "pageOffDotImage": "pageOffDot.png",
+    "pageOnDotImage": "page_on_dot.png",
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "page_on_dot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flexSegData",
+    "pf": "NewsForm",
+    "render": true,
+    "retainSelection": false,
+    "retainselection": false,
+    "rowFocusSkin": "s421ec32cfad416da47eefdc67cebfff",
+    "rowSkin": "s870da3a32f24cab886aec7625a84514",
+    "rowTemplateId": null,
+    "rowcounter": 2,
+    "rowfocusskin": "s421ec32cfad416da47eefdc67cebfff",
+    "rowskin": "s870da3a32f24cab886aec7625a84514",
+    "rowtemplate": null,
+    "screenLevelWidget": false,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderSkin": "se68f0b1a1ef4befae9634c5e1ea9329",
+    "sectionheaderskin": "se68f0b1a1ef4befae9634c5e1ea9329",
+    "selectedIndex": null,
+    "selectedIndices": null,
+    "selectedItems": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionBehavior": "default",
+    "selectionbehavior": "default",
+    "separatorColor": "64646400",
+    "separatorRequired": true,
+    "separatorThickness": 1,
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showScrollbars": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 576,
+        "widthRatio": 0
+    },
+    "top": "54%",
+    "viewType": "pageview",
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetAlignment": 5,
+    "widgetDataMap": {},
+    "widgetalignment": 5,
+    "widgetdatamap": {},
+    "width": "90%",
+    "zIndex": 1,
+    "zindex": 1
+}

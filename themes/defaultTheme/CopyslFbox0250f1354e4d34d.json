@@ -1,0 +1,11 @@
+{
+    "background_image": "stockdown.png",
+    "bg_type": "image",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "isDefaultSkin": false,
+    "kuid": "s50b58ec8f134f4285e3d994921bcb6e",
+    "wType": "FlexContainer"
+}

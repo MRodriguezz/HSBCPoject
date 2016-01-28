@@ -1,0 +1,20 @@
+{
+	"AS_Button_f3f9b152b9df4ee1a397ab12a79f3700": {
+		"id": "AS_Button_f3f9b152b9df4ee1a397ab12a79f3700",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_f7580b75b9b649aea8576c6379afc2b3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "HamburgerClose(\"CopyFlexContainer\");\n",
+				"callbackType": null
+			}
+		]
+	}
+}

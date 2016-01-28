@@ -1,0 +1,149 @@
+{
+    "@class": "com.kony.gen.appprops.KVizAppProps",
+    "APPLICATION_THEME": "default",
+    "accountCloudGuid": "0d4b1655-72ef-43ef-804f-25ea96a5f6ea",
+    "appaddrkey": "",
+    "appidkey": "Project030fdbd657",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "ea241204f8d248708a2e3dde6eac8e48",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "805a8b95217740d0b966ca7228c2537d",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "6171f0259720408da0d4ca8a391f3562",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "7107498e92764a198d38a3cc10ea53cd",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "9de8fd536e2e4ed59054b58c4dca5e61",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "3dc3f1015da140269131a9fef44f6a95",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "aac2de883bb748d4895bd4fbfe61499d",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "a3074386a9b048989879a6bbd98e1df0",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "2be7286f88ee4552adfefba9b08f9076",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "a1569f18730b4af381ff42ca63835254",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "794655b297ef474697df119d256b4d9f",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "fcd56774d4284cd9a3f0259b877e9886",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "HSBCProject",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "createdVizVersion": "2.5.2.5",
+    "createdgaversion": "6.5.0",
+    "currentgaversion": "6.5.0",
+    "defaulttheme": "defaultTheme",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "2.5.2.5",
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "project.type": "js",
+    "projectCloudGuid": "90fa30e6-3a71-443e-a1ff-26e08bb3433e",
+    "project_version": "sprint21",
+    "prototype": {
+        "createdBy": "Ludwin Garcia",
+        "createdById": "31c8fb37-8971-4616-9b17-bfa341d7f6f7",
+        "createdOn": "2016-01-18T18:30:57.235Z",
+        "resourceId": "ef04de9c-32c8-4fd9-856f-cec4b473d016",
+        "shareGuid": "898D1"
+    },
+    "startupformkey": "StockMarketForm",
+    "vendornamekey": "KonyLabs",
+    "winmobileguidkey": ""
+}

@@ -1,0 +1,21 @@
+{
+	"AS_Button_416e619324b948678c7b5886ed25abfd": {
+		"id": "AS_Button_416e619324b948678c7b5886ed25abfd",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__9e3c26a19cc143139911e45dc4522d8f",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "avanzarOcultar();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

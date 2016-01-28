@@ -1,0 +1,21 @@
+{
+	"AS_Button_aef73633061a412889c71f82133485d5": {
+		"id": "AS_Button_aef73633061a412889c71f82133485d5",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__a8cf28eba66e485aa10a506a4c6028ca",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "HamburgerClose(\"StockMarket\");\n\nvar BtnUnhide = \"DiscoverSelection\";\nvar BtnHideOne = \"TopSelection\";\nvar BtnHideTwo = \"SelectionFlex\";\nnavbarHide(BtnUnhide, BtnHideOne, BtnHideTwo);\n\n\n",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

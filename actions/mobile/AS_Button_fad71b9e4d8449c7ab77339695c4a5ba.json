@@ -1,0 +1,20 @@
+{
+	"AS_Button_fad71b9e4d8449c7ab77339695c4a5ba": {
+		"id": "AS_Button_fad71b9e4d8449c7ab77339695c4a5ba",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onClick_e6309b72803a485e96b3bfdee20179f6",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "HamburgerClose(\"StockMarket\");\n",
+				"callbackType": null
+			}
+		]
+	}
+}

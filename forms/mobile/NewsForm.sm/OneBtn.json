@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-0.37%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s56b6ab678a740f59423462c01d37137",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "-0.48%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "sefbc95d2c0743c8b1aab6d38adebc69",
+    "focusskin": "sefbc95d2c0743c8b1aab6d38adebc69",
+    "height": "100%",
+    "id": "OneBtn",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "2dfae4aad14e43c084c1a3f983395c0c",
+    "left": "-0.37%",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_416e619324b948678c7b5886ed25abfd",
+    "onclick": "AS_Button_416e619324b948678c7b5886ed25abfd",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "DayCont",
+    "pf": "NewsForm",
+    "render": true,
+    "skin": "s56b6ab678a740f59423462c01d37137",
+    "text": "",
+    "top": "-0.48%",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "100%",
+    "zIndex": 1,
+    "zindex": 1
+}

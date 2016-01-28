@@ -1,0 +1,22 @@
+{
+	"AS_Button_90a0e595916f41eebbc89733c59840f8": {
+		"id": "AS_Button_90a0e595916f41eebbc89733c59840f8",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___81cf9f32ee5c42eab52eeccd075a0e8e",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "StockMarketForm",
+				"formKUID": "d99c802369b6481c96ec79a22cf83f1d",
+				"parentId": "",
+				"callbackType": null
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9491ad76069453b8a6e0025d7de5230",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "s214f6ec5fb0431698cc73329ed88a78",
+    "focusskin": "s214f6ec5fb0431698cc73329ed88a78",
+    "height": "100%",
+    "id": "BtnGift",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "4b116f12d948450bb7ccadd332bd148f",
+    "left": "0%",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_708b56df0e90416b8eaa94d640daa78f",
+    "onclick": "AS_Button_708b56df0e90416b8eaa94d640daa78f",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "ProductsContainer",
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "s9491ad76069453b8a6e0025d7de5230",
+    "text": "",
+    "top": "0%",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "100%",
+    "zIndex": 1,
+    "zindex": 1
+}

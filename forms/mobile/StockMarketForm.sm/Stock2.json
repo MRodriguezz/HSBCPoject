@@ -1,0 +1,92 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "78.10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "18.75%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc294720b1d149d3bf81578ef7acb9fa",
+    "_top_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "74%"
+    },
+    "allboxes": [],
+    "autogrowMode": 0,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerX": "49%",
+    "centerx": {
+        "type": "string",
+        "value": "49%"
+    },
+    "children": [
+        "Image0ab89d3a1555d4d",
+        "CopyFlexLine07b7529e57cd043",
+        "StockCon",
+        "ButtomsCont"
+    ],
+    "clipBounds": true,
+    "clipbounds": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "enableScrolling": true,
+    "enabled": false,
+    "enablescrolling": true,
+    "height": "78.10%",
+    "id": "Stock2",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "85603e0523bc4f75a36f5b8445ac882d",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": "18.75%",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "Scrollimages",
+    "percent": true,
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "sc294720b1d149d3bf81578ef7acb9fa",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "top": "14%",
+    "wType": "FlexContainer",
+    "widgetAlignment": 1,
+    "widgetalignment": 1,
+    "width": "74%"
+}

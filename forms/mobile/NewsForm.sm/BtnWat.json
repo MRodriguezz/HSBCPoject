@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf47e11e202d4d09816391162a2d71f7",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": false,
+    "displaytext": false,
+    "enabled": false,
+    "focusSkin": "sfe8257a4a764ec98dfc407a04221dbf",
+    "focusskin": "sfe8257a4a764ec98dfc407a04221dbf",
+    "height": "100%",
+    "id": "BtnWat",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "4aa72f645ad245c9ba0d19ac524e15c4",
+    "left": "0%",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_dba8d737c13843819b0d8c48f8c3df85",
+    "onclick": "AS_Button_dba8d737c13843819b0d8c48f8c3df85",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "WatchCont",
+    "pf": "NewsForm",
+    "render": true,
+    "skin": "sf47e11e202d4d09816391162a2d71f7",
+    "text": "",
+    "top": "0%",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "100%",
+    "zIndex": 1,
+    "zindex": 1
+}

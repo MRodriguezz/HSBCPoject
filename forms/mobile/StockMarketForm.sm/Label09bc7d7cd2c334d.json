@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb6304175e9f4ccc956c9e302c93c3dd",
+    "_text_": "Twitter Inc.",
+    "_top_": {
+        "type": "string",
+        "value": "52%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "enabled": false,
+    "height": "22%",
+    "id": "Label09bc7d7cd2c334d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "7c1f00d467f545569854f99bc8b4de28",
+    "left": "8%",
+    "margin": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "name": "kony.ui.Label",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "DateContainer",
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "sb6304175e9f4ccc956c9e302c93c3dd",
+    "text": "Twitter Inc.",
+    "toolTip": "",
+    "tooltip": "",
+    "top": "52%",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "width": "87%",
+    "wrapping": 2,
+    "zIndex": 1,
+    "zindex": 1
+}

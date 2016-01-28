@@ -1,0 +1,21 @@
+{
+	"AS_Button_0e8ab98afd8e409c85da1c4c0d38b78d": {
+		"id": "AS_Button_0e8ab98afd8e409c85da1c4c0d38b78d",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__8a22db4cb0a54c5e9625332f967a7480",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "MoveStocks(2,3);",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

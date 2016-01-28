@@ -1,0 +1,21 @@
+{
+	"AS_Button_4bd59d949e8f474e8f2ceb4c241efc41": {
+		"id": "AS_Button_4bd59d949e8f474e8f2ceb4c241efc41",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__f24be4ab3c4e4e5b9f5d3c1fc1bdcb79",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "navbarHide();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

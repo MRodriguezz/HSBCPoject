@@ -1,0 +1,21 @@
+{
+	"AS_Button_fde2c101f7c04745af3db87f6a758676": {
+		"id": "AS_Button_fde2c101f7c04745af3db87f6a758676",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__08126b680f944d9db4c07e533828102e",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "var BtnVisible = \"RatesActive\";\nvar BtnHideRate = \"GiftActive\";\nvar BtnHideProduct = \"ATMactive\";\nvar BtnHideAtm = \"MoreActive\";\nnavbarFooter(BtnVisible, BtnHideRate, BtnHideProduct, BtnHideAtm);\n",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

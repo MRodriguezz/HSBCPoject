@@ -1,0 +1,21 @@
+{
+	"AS_Button_25b6808e6de54643beb784c98b00f74c": {
+		"id": "AS_Button_25b6808e6de54643beb784c98b00f74c",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__019d4df7c65b4f1897e58edb77934ca3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "HamburgerClose(\"TopContainer\");\n\nvar BtnUnhide = \"TopSelection\";\nvar BtnHideOne = \"SelectionFlex\";\nvar BtnHideTwo = \"DiscoverSelection\";\nnavbarHide(BtnUnhide, BtnHideOne, BtnHideTwo);\n\n",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

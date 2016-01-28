@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7509beaf11b40a79c223641cc2dfb7d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "s92f962f9b27432ebfa6aee6f7d261c3",
+    "focusskin": "s92f962f9b27432ebfa6aee6f7d261c3",
+    "height": "100%",
+    "id": "BtnATM",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "5e252df490ee4330b9f9f7daf5dfe844",
+    "left": "0%",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "onClick": "AS_Button_6f35e251879f4f3ba80483d82fd019bb",
+    "onclick": "AS_Button_6f35e251879f4f3ba80483d82fd019bb",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "FindContainer",
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "s7509beaf11b40a79c223641cc2dfb7d",
+    "text": "",
+    "top": "0%",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "100%",
+    "zIndex": 1,
+    "zindex": 1
+}

@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc57af4cb05d410ebb96dbd05836d97c",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "sba7725c60f34276999753c1ce668fda",
+    "focusskin": "sba7725c60f34276999753c1ce668fda",
+    "height": "100%",
+    "id": "BtnSearch",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "954d1b249b58460b9bd5f3a1bba6afda",
+    "left": "80%",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "StockMaster",
+    "pf": "NewsForm",
+    "render": true,
+    "skin": "sc57af4cb05d410ebb96dbd05836d97c",
+    "text": "",
+    "top": "0%",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "width": "20%",
+    "zIndex": 1,
+    "zindex": 1
+}

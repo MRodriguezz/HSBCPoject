@@ -1,0 +1,87 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "27.04%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8.06%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfa22613d93a4c379adf16eb021d604e",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "19.689999999999998%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "21.88%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 4,
+    "contentalignment": 4,
+    "enabled": false,
+    "height": "27.04%",
+    "id": "Label045d76a87c4c244",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isSegmentChild": true,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "fb9055cbc8bd44569ce27307a2a0f7a2",
+    "left": "8.06%",
+    "margin": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "name": "kony.ui.Label",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyFBox0178badc22d954b",
+    "pf": "CopyFBox0178badc22d954b",
+    "render": true,
+    "skin": "sfa22613d93a4c379adf16eb021d604e",
+    "text": "Label",
+    "toolTip": "",
+    "tooltip": "",
+    "top": "19.689999999999998%",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "width": "21.88%",
+    "wrapping": 2
+}

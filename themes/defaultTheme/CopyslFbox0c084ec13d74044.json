@@ -1,0 +1,14 @@
+{
+    "android": {
+        "wType": "FlexContainer"
+    },
+    "background_image": "stock.png",
+    "bg_type": "image",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "isDefaultSkin": false,
+    "kuid": "s8f4ab20b98c447cbec084920b45e47f",
+    "wType": "FlexContainer"
+}

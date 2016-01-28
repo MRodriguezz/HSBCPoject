@@ -1,0 +1,94 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2928f9e29c84b6d8b08b3f82fd205e1",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "base64": null,
+    "canUpdateUI": true,
+    "centerX": "97%",
+    "centerY": "50%",
+    "centerx": {
+        "type": "string",
+        "value": "97%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "android",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "height": "15%",
+    "id": "imgArrow2",
+    "imageScaleMode": 1,
+    "imagescalemode": 1,
+    "info": null,
+    "isSegmentChild": false,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "1be4b16f2a4f4203a689257b51faee54",
+    "left": "0%",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Image2",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "flex2",
+    "pf": "SegTmplNews",
+    "render": true,
+    "skin": "s2928f9e29c84b6d8b08b3f82fd205e1",
+    "src": "imagedrag.png",
+    "srcType": 1,
+    "top": "0%",
+    "wType": "Image",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "width": "8%",
+    "zIndex": 1,
+    "zindex": 1
+}

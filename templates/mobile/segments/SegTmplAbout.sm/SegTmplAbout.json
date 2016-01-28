@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2db0c2cd98e4b24bc5f1b239a4b5a2f",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "FlxTmplAbout"
+    ],
+    "containerId": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentOffsetX": 0,
+    "contentOffsetY": 0,
+    "contentSizeHeight": 0,
+    "contentSizeWidth": 0,
+    "currentLocale": null,
+    "device": "GalaxyS2",
+    "displayOrientation": 3,
+    "displayorientation": 3,
+    "enabled": false,
+    "enabledForIdleTimeout": false,
+    "enabledforidletimeout": false,
+    "id": "SegTmplAbout",
+    "inTransitionConfig": {
+        "formTransition": "None"
+    },
+    "info": null,
+    "initdone": false,
+    "inputAccessoryViewType": 4,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "2a4a700feaba453094d41340d01d3e5f",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.Form2",
+    "needAppMenu": true,
+    "needappmenu": true,
+    "orientation": 1,
+    "outTransitionConfig": {
+        "formTransition": "None"
+    },
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddingInPixel": false,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "android",
+    "prevDevice": "GalaxyS4",
+    "prevPlatform": "iphone",
+    "render": true,
+    "retainScrollPosition": false,
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS2",
+    "skin": "s2db0c2cd98e4b24bc5f1b239a4b5a2f",
+    "title": null,
+    "titleBar": true,
+    "titleBarSkin": "s616c4a8f76f4798b804279f4505b6db",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "widgetAlignment": 5
+}

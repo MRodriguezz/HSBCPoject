@@ -1,0 +1,98 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "0.90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s3bb178f82934db9b655e8bc11561aa7",
+    "_top_": {
+        "type": "string",
+        "value": "28%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowMode": 0,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [],
+    "clipBounds": true,
+    "clipbounds": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "enableScrolling": true,
+    "enabled": false,
+    "enablescrolling": true,
+    "height": {
+        "type": "string",
+        "value": "0.90%"
+    },
+    "id": "LineFlex",
+    "info": null,
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "2b88297a2fce4d1498cba5ffd349f53e",
+    "layoutType": 2,
+    "layouttype": 2,
+    "left": {
+        "type": "string",
+        "value": "5%"
+    },
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "LoginContainer",
+    "percent": true,
+    "pf": "LoginForm",
+    "render": true,
+    "skin": "s3bb178f82934db9b655e8bc11561aa7",
+    "snapGridSize": 10,
+    "snapToGrid": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "top": {
+        "type": "string",
+        "value": "28%"
+    },
+    "wType": "FlexContainer",
+    "widgetAlignment": 1,
+    "widgetalignment": 1,
+    "width": {
+        "type": "string",
+        "value": "90%"
+    },
+    "zIndex": 1,
+    "zindex": 1
+}

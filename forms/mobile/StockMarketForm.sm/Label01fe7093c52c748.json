@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc88988884e7473e91ee7f081ed637a7",
+    "_text_": "(1.29)",
+    "_top_": {
+        "type": "string",
+        "value": "48%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "97%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "enabled": false,
+    "height": "22%",
+    "id": "Label01fe7093c52c748",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "ec4af4f8b3a24690aef501e6a604b28c",
+    "left": "0%",
+    "margin": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "name": "kony.ui.Label",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "CopyFlexContainer0a79c657b099b45",
+    "pf": "StockMarketForm",
+    "render": true,
+    "skin": "sc88988884e7473e91ee7f081ed637a7",
+    "text": "(1.29)",
+    "toolTip": "",
+    "tooltip": "",
+    "top": "48%",
+    "wType": "Label",
+    "widgetAlignment": 5,
+    "width": "97%",
+    "wrapping": 2,
+    "zIndex": 1,
+    "zindex": 1
+}
